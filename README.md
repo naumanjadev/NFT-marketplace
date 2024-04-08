@@ -1,4 +1,4 @@
-# Boy NFT Marketplace
+# NFT Marketplace
 <i>NFT marketplace DApp where users mint ERC721 implemented Boy NFTs.</i>
 #
 <img align="right" width="350" src="./image.png"></img>
