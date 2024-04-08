@@ -39,11 +39,6 @@ npm i ganache-cli
 ```
 ganache-cli --port 7545
 ```
-#### Install dependencies
-```
-cd cryptoboys-NFT-marketplace
-npm install
-```
 #### Compile smart contract
 ```
 truffle compile
